@@ -8,3 +8,5 @@ My First Repository - Repo
 - item 3 in a list
 
 [I am a link](http://www.southhills.edu)
+
+We just made changes!
